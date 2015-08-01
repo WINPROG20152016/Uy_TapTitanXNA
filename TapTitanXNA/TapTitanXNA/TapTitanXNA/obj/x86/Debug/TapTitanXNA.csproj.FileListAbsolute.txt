@@ -1,0 +1,15 @@
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\TapTitanXNA.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\TapTitanXNA.pdb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\obj\x86\Debug\TapTitanXNA.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\obj\x86\Debug\TapTitanXNA.pdb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\HeroSprite\hero.xnb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\bg.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\tap_titan.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\taptitansprite.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\HeroSprite\taptitanspritesheet2.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\HeroSprite\attackfast1.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\Button\button_play.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\Button\button_attack.xnb

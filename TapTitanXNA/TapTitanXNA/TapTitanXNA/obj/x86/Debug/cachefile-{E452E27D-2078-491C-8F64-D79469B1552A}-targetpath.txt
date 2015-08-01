@@ -1,0 +1,9 @@
+Content\HeroSprite\hero.xnb
+Content\bg.xnb
+Content\tap_titan.xnb
+Content\taptitansprite.xnb
+Content\HeroSprite\taptitanspritesheet2.xnb
+Content\Font.xnb
+Content\HeroSprite\attackfast1.xnb
+Content\Button\button_play.xnb
+Content\Button\button_attack.xnb
