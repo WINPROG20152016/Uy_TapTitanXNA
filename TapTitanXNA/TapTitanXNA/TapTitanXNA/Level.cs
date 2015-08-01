@@ -11,6 +11,9 @@ namespace TapTitanXNA
 {
     public class Level
     {
+        // ADDED
+
+
         public static int windowWidth = 400;
         public static int windowHeight = 500;
 
