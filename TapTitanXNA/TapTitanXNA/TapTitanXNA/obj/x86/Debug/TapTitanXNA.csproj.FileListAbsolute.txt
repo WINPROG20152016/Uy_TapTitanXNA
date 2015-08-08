@@ -13,3 +13,18 @@ C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\
 C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\HeroSprite\attackfast1.xnb
 C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\Button\button_play.xnb
 C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\Button\button_attack.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\HeroSprite\hero.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\bg.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\tap_titan.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\taptitansprite.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\HeroSprite\taptitanspritesheet2.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\HeroSprite\attackfast1.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\Button\button_play.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\Button\button_attack.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\TapTitanXNA.exe
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\bin\x86\Debug\TapTitanXNA.pdb
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\obj\x86\Debug\TapTitanXNA.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\obj\x86\Debug\TapTitanXNA.exe
+C:\Users\istudent\Documents\XNA\Uy_TapTitanXNA\TapTitanXNA\TapTitanXNA\TapTitanXNA\obj\x86\Debug\TapTitanXNA.pdb
