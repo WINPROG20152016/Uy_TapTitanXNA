@@ -13,6 +13,8 @@ namespace TapTitanXNA
     {
         // ADDED
 
+        int a = 5;
+
         public static int windowWidth = 400;
         public static int windowHeight = 500;
 
